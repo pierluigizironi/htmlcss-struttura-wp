@@ -23,8 +23,20 @@ body {
     margin: 0 auto;
 }
 
+/* First header */
+
 #first-header {
     height: 200px;
     background-color: #E579E6;
     margin: 20px 0px;
 }
+
+/* Spotlight */
+
+#spotlight {
+    height: 450px;
+    background-color: #E1D67A;
+    margin-bottom: 20px;
+}
+
+/* Main */
