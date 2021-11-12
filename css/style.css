@@ -39,4 +39,14 @@ body {
     margin-bottom: 20px;
 }
 
-/* Main */
+/* Content section */
+
+#content-section {
+    background-color: #2B86FF;
+    height: 1000px;
+}
+
+#second-header {
+    background-color: #ABCFE7;
+    height: 150px;
+}
