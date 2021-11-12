@@ -22,3 +22,9 @@ body {
     max-width: 1200px; 
     margin: 0 auto;
 }
+
+#first-header {
+    height: 200px;
+    background-color: #E579E6;
+    margin: 20px 0px;
+}
