@@ -50,3 +50,9 @@ body {
     background-color: #ABCFE7;
     height: 150px;
 }
+
+footer {
+    background-color: #8802FE;
+    height: 100px;
+    margin: 10px 0px;
+}
