@@ -43,13 +43,30 @@ body {
 
 #content-section {
     background-color: #2B86FF;
-    height: 1000px;
 }
 
 #second-header {
     background-color: #ABCFE7;
     height: 150px;
 }
+
+.sidebar {
+    float: left;
+    height: 700px;
+    width: 25%;
+    margin: 20px 0px;
+    background-color: #ABCFE7;
+}
+
+main {
+    float: left;
+    height: 700px;
+    width: calc(50% - 40px);
+    margin: 20px 20px;
+    background-color: #ABCFE7;
+}
+
+/* Footer */
 
 footer {
     background-color: #8802FE;
